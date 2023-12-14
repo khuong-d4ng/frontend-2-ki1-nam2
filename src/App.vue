@@ -35,7 +35,7 @@
             </li>
             <li class="nav-item">
               <router-link to="/signup" id="sigup-text" class="nav-link"
-              >Đăng kí</router-link
+              >Đăng kí translateX</router-link
             >
            
             </li>
